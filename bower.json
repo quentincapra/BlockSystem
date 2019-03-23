@@ -1,0 +1,21 @@
+{
+  "name": "block-system",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Quentin Capra <quentin.capra@epitech.eu>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/quentincapra/BlockSystem",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gridstack-angular": "^0.5.0"
+  }
+}
